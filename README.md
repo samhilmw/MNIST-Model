@@ -1,6 +1,6 @@
 # MNIST-Model
 Requirements:
-jupyter notebook
++ jupyter notebook
 numpy
 mathplotlib
 scikit learn
