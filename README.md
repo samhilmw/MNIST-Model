@@ -1,7 +1,7 @@
 # MNIST-Model
 Requirements:
 + jupyter notebook
-numpy
++ numpy
 mathplotlib
 scikit learn
 Data Files can be downloaded from below:
